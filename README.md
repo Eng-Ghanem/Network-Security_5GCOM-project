@@ -4,6 +4,19 @@ An enterprise-grade campus network architecture and cybersecurity implementation
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Network Architecture Topology](#network-architecture-topology)
+- [Configuration & Implementation Summary](#configuration--implementation-summary)
+- [Project Structure](#project-structure)
+- [Simulation Verification & Media](#simulation-verification--media)
+- [How to Run the Simulation](#how-to-run-the-simulation)
+- [Documentation](#documentation)
+- [Author](#author)
+
+---
+
 ## Features
 
 - **Multi-Building Campus Topology**:
